@@ -6,7 +6,7 @@ use Maknz\Slack\Client;
 use GuzzleHttp\Client as Guzzle;
 use Illuminate\Support\ServiceProvider;
 
-class ServiceProviderLaravel5 extends ServiceProvider;
+class ServiceProviderLaravel5 extends ServiceProvider
 {
     /**
      * Bootstrap the application events.
